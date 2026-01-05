@@ -1,7 +1,8 @@
-[{
+[
+  {
     "id": "1",
     "img": "assets/images/user/user1.jpg",
-    "name": "Sarah Smith",
+    "name": "Priya Sharma",
     "title": "Develop angular project",
     "done": true,
     "note": "note details",
@@ -11,7 +12,7 @@
   {
     "id": "2",
     "img": "assets/images/user/user2.jpg",
-    "name": "John Deo",
+    "name": "Rahul Verma",
     "title": "File not found exception solve",
     "done": false,
     "note": "note details",
@@ -21,7 +22,7 @@
   {
     "id": "3",
     "img": "assets/images/user/user3.jpg",
-    "name": "Jens Brincker",
+    "name": "Amit Kulkarni",
     "title": "Test project and find bug",
     "done": false,
     "note": "note details",
@@ -31,7 +32,7 @@
   {
     "id": "4",
     "img": "assets/images/user/user4.jpg",
-    "name": "Mark Hay",
+    "name": "Suresh Patil",
     "title": "Image not found error",
     "done": true,
     "note": "note details",
@@ -41,7 +42,7 @@
   {
     "id": "5",
     "img": "assets/images/user/user5.jpg",
-    "name": "Anthony Davie",
+    "name": "Neha Joshi",
     "title": "Solve client error in form",
     "done": false,
     "note": "note details",
@@ -51,7 +52,7 @@
   {
     "id": "6",
     "img": "assets/images/user/user6.jpg",
-    "name": "Sue Woodger",
+    "name": "Pooja Deshmukh",
     "title": "Tab button is flickering on hover",
     "done": false,
     "note": "note details",
@@ -61,7 +62,7 @@
   {
     "id": "7",
     "img": "assets/images/user/user7.jpg",
-    "name": "John Deo",
+    "name": "Rohit Mehta",
     "title": "Chart responsive issue solve",
     "done": true,
     "note": "note details",
@@ -71,7 +72,7 @@
   {
     "id": "8",
     "img": "assets/images/user/user8.jpg",
-    "name": "Jens Brincker",
+    "name": "Ankit Singh",
     "title": "Web service data load issue",
     "done": false,
     "note": "note details",
@@ -81,7 +82,7 @@
   {
     "id": "9",
     "img": "assets/images/user/user9.jpg",
-    "name": "Sarah Smith",
+    "name": "Kavita Nair",
     "title": "Java compile error",
     "done": false,
     "note": "note details",
@@ -91,7 +92,7 @@
   {
     "id": "10",
     "img": "assets/images/user/user10.jpg",
-    "name": "Mark Hay",
+    "name": "Vikas Gupta",
     "title": "Integrate project with spring boot",
     "done": true,
     "note": "note details",
@@ -101,7 +102,7 @@
   {
     "id": "11",
     "img": "assets/images/user/user1.jpg",
-    "name": "John Deo",
+    "name": "Arjun Malhotra",
     "title": "Update latest angular version",
     "done": false,
     "note": "note details",
@@ -111,7 +112,7 @@
   {
     "id": "12",
     "img": "assets/images/user/user2.jpg",
-    "name": "Jens Brincker",
+    "name": "Sandeep Rao",
     "title": "Integrate lazy loading on project",
     "done": false,
     "note": "note details",
@@ -121,7 +122,7 @@
   {
     "id": "13",
     "img": "assets/images/user/user3.jpg",
-    "name": "Mark Hay",
+    "name": "Manish Chavan",
     "title": "js file not load properly",
     "done": true,
     "note": "note details",
@@ -131,7 +132,7 @@
   {
     "id": "14",
     "img": "assets/images/user/user4.jpg",
-    "name": "Anthony Davie",
+    "name": "Sneha Iyer",
     "title": "need to change color of table",
     "done": false,
     "note": "note details",
@@ -141,10 +142,11 @@
   {
     "id": "15",
     "img": "assets/images/user/user5.jpg",
-    "name": "Sue Woodger",
+    "name": "Ritu Agarwal",
     "title": "modal window select item issue",
     "done": false,
     "note": "note details",
     "priority": "Low",
     "due_date": "2018-02-25T14:22:18Z"
-  }]
+  }
+]

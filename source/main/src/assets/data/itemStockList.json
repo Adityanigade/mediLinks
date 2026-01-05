@@ -1,11 +1,12 @@
-[{
+[
+  {
     "id": "001",
     "i_name": "Medical Equipment",
     "category": "Equipments",
     "qty": "44",
     "date": "2021-02-25T14:22:18Z",
     "price": "20",
-    "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "details": "Essential medical tools used for diagnosis and treatment.\nEnsures safe and effective patient care in hospitals."
   },
   {
     "id": "002",
@@ -14,7 +15,7 @@
     "qty": "234",
     "date": "2021-04-15T14:22:18Z",
     "price": "11",
-    "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "details": "Soft cotton used for wound cleaning and dressing.\nHelps prevent infection and promotes healing."
   },
   {
     "id": "003",
@@ -23,7 +24,7 @@
     "qty": "476",
     "date": "2021-03-09T14:22:18Z",
     "price": "3",
-    "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "details": "Disposable syringe used for injecting medicines.\nEnsures accurate dosage and patient safety."
   },
   {
     "id": "004",
@@ -32,7 +33,7 @@
     "qty": "29",
     "date": "2021-02-25T14:22:18Z",
     "price": "45",
-    "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "details": "Clean and comfortable bed sheets for patients.\nMaintains hygiene and comfort in hospital wards."
   },
   {
     "id": "005",
@@ -41,7 +42,7 @@
     "qty": "163",
     "date": "2021-06-22T14:22:18Z",
     "price": "10",
-    "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "details": "Protective gloves used during medical procedures.\nReduces risk of contamination and infection."
   },
   {
     "id": "006",
@@ -50,16 +51,16 @@
     "qty": "14",
     "date": "2021-02-05T14:22:18Z",
     "price": "33",
-    "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "details": "Standard uniform worn by hospital staff.\nEnsures professional appearance and easy identification."
   },
   {
     "id": "007",
-    "i_name": "scissors",
+    "i_name": "Scissors",
     "category": "Equipments",
     "qty": "17",
     "date": "2021-03-19T14:22:18Z",
     "price": "29",
-    "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "details": "Medical scissors used for cutting bandages.\nDesigned for precision and safe handling."
   },
   {
     "id": "008",
@@ -68,6 +69,6 @@
     "qty": "5",
     "date": "2021-02-25T14:22:18Z",
     "price": "6",
-    "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "details": "Device used to measure body temperature.\nHelps in early detection of fever and illness."
   }
 ]

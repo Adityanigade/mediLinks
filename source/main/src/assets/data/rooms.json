@@ -1,7 +1,8 @@
-[{
+[
+  {
     "id": "001",
     "img": "assets/images/user/user1.jpg",
-    "pName": "John Doe",
+    "pName": "Rahul Sharma",
     "rType": "Delux",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-28T14:22:18Z",
@@ -11,7 +12,7 @@
   {
     "id": "002",
     "img": "assets/images/user/user2.jpg",
-    "pName": "Pooja Patel",
+    "pName": "Pooja Mehta",
     "rType": "Super Delux",
     "admitDate": "2018-02-12T14:22:18Z",
     "dischargeDate": "2018-02-15T14:22:18Z",
@@ -21,7 +22,7 @@
   {
     "id": "003",
     "img": "assets/images/user/user3.jpg",
-    "pName": "Pankaj Singh",
+    "pName": "Pankaj Verma",
     "rType": "Delux",
     "admitDate": "2018-02-22T14:22:18Z",
     "dischargeDate": "2018-02-26T14:22:18Z",
@@ -31,7 +32,7 @@
   {
     "id": "004",
     "img": "assets/images/user/user4.jpg",
-    "pName": "Airi Satou",
+    "pName": "Anjali Kulkarni",
     "rType": "Delux",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-27T14:22:18Z",
@@ -41,7 +42,7 @@
   {
     "id": "005",
     "img": "assets/images/user/user5.jpg",
-    "pName": "Jenish shah",
+    "pName": "Rohit Shah",
     "rType": "General",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-26T14:22:18Z",
@@ -51,7 +52,7 @@
   {
     "id": "006",
     "img": "assets/images/user/user6.jpg",
-    "pName": "Ashton Cox",
+    "pName": "Sneha Patil",
     "rType": "ICU",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-29T14:22:18Z",
@@ -61,7 +62,7 @@
   {
     "id": "007",
     "img": "assets/images/user/user7.jpg",
-    "pName": "Cara Stevens",
+    "pName": "Amit Joshi",
     "rType": "ICU",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-27T14:22:18Z",
@@ -71,7 +72,7 @@
   {
     "id": "008",
     "img": "assets/images/user/user8.jpg",
-    "pName": "Airi Satou",
+    "pName": "Kavita Deshpande",
     "rType": "Delux",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-25T14:22:18Z",
@@ -81,7 +82,7 @@
   {
     "id": "009",
     "img": "assets/images/user/user9.jpg",
-    "pName": "Angelica Ramos",
+    "pName": "Vikram Malhotra",
     "rType": "Delux",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-28T14:22:18Z",
@@ -91,7 +92,7 @@
   {
     "id": "010",
     "img": "assets/images/user/user10.jpg",
-    "pName": "Jenish shah",
+    "pName": "Neha Shah",
     "rType": "Super Delux",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-27T14:22:18Z",
@@ -101,7 +102,7 @@
   {
     "id": "011",
     "img": "assets/images/user/user1.jpg",
-    "pName": "John Doe",
+    "pName": "Suresh Nair",
     "rType": "Super Delux",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-26T14:22:18Z",
@@ -111,7 +112,7 @@
   {
     "id": "012",
     "img": "assets/images/user/user1.jpg",
-    "pName": "Cara Stevens",
+    "pName": "Manoj Kulkarni",
     "rType": "Super Delux",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-27T14:22:18Z",
@@ -121,7 +122,7 @@
   {
     "id": "013",
     "img": "assets/images/user/user2.jpg",
-    "pName": "Pooja Patel",
+    "pName": "Pooja Desai",
     "rType": "Delux",
     "admitDate": "2018-02-12T14:22:18Z",
     "dischargeDate": "2018-02-15T14:22:18Z",
@@ -131,7 +132,7 @@
   {
     "id": "014",
     "img": "assets/images/user/user3.jpg",
-    "pName": "Pankaj Singh",
+    "pName": "Ajay Singh",
     "rType": "ICU",
     "admitDate": "2018-02-22T14:22:18Z",
     "dischargeDate": "2018-02-24T14:22:18Z",
@@ -141,7 +142,7 @@
   {
     "id": "015",
     "img": "assets/images/user/user4.jpg",
-    "pName": "Angelica Ramos",
+    "pName": "Ritika Kapoor",
     "rType": "Super Delux",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-28T14:22:18Z",
@@ -151,7 +152,7 @@
   {
     "id": "016",
     "img": "assets/images/user/user5.jpg",
-    "pName": "Ashton Cox",
+    "pName": "Sunita Pawar",
     "rType": "General",
     "admitDate": "2018-02-25T14:22:18Z",
     "dischargeDate": "2018-02-29T14:22:18Z",

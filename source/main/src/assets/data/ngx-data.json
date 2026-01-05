@@ -1,170 +1,170 @@
 [
-    {
-        "firstName": "Cortez",
-        "lastName": "Gaines",
-        "gender": "male",
-        "address": "423 Bay Parkway"
-    },
-    {
-        "firstName": "Reba",
-        "lastName": "Bowen",
-        "gender": "female",
-        "address": "663 Hale Avenue"
-    },
-    {
-        "firstName": "Wallace",
-        "lastName": "Bush",
-        "gender": "male",
-        "address": "955 Lawn Court"
-    },
-    {
-        "firstName": "Angel",
-        "lastName": "Dawson",
-        "gender": "female",
-        "address": "919 Lott Street"
-    },
-    {
-        "firstName": "Mclaughlin",
-        "lastName": "Norton",
-        "gender": "male",
-        "address": "228 Kossuth Place"
-    },
-    {
-        "firstName": "Poole",
-        "lastName": "Ware",
-        "gender": "male",
-        "address": "560 Gerald Court"
-    },
-    {
-        "firstName": "Howard",
-        "lastName": "Mack",
-        "gender": "male",
-        "address": "887 George Street"
-    },
-    {
-        "firstName": "John",
-        "lastName": "Hewitt",
-        "gender": "female",
-        "address": "494 Amber Street"
-    },
-    {
-        "firstName": "Flossie",
-        "lastName": "Grimes",
-        "gender": "female",
-        "address": "436 Ridge Court"
-    },
-    {
-        "firstName": "Donaldson",
-        "lastName": "Johnston",
-        "gender": "male",
-        "address": "553 Albemarle Road"
-    },
-    {
-        "firstName": "Angie",
-        "lastName": "Stewart",
-        "gender": "female",
-        "address": "785 Juliana Place"
-    },
-    {
-        "firstName": "Hancock",
-        "lastName": "Kennedy",
-        "gender": "male",
-        "address": "981 Remsen Street"
-    },
-    {
-        "firstName": "Simmons",
-        "lastName": "Tucker",
-        "gender": "male",
-        "address": "100 Battery Avenue"
-    },
-    {
-        "firstName": "Fletcher",
-        "lastName": "Garza",
-        "gender": "male",
-        "address": "401 Pineapple Street"
-    },
-    {
-        "firstName": "Hicks",
-        "lastName": "Ferguson",
-        "gender": "male",
-        "address": "262 Ocean Avenue"
-    },
-    {
-        "firstName": "Snyder",
-        "lastName": "Bullock",
-        "gender": "male",
-        "address": "474 Sedgwick Place"
-    },
-    {
-        "firstName": "Mckay",
-        "lastName": "Hays",
-        "gender": "male",
-        "address": "624 Wythe Avenue"
-    },
-    {
-        "firstName": "Margaret",
-        "lastName": "Riley",
-        "gender": "female",
-        "address": "721 Debevoise Street"
-    },
-    {
-        "firstName": "Christy",
-        "lastName": "Rogers",
-        "gender": "female",
-        "address": "615 Nassau Avenue"
-    },
-    {
-        "firstName": "Graciela",
-        "lastName": "Duran",
-        "gender": "female",
-        "address": "118 Havemeyer Street"
-    },
-    {
-        "firstName": "Mann",
-        "lastName": "Charles",
-        "gender": "male",
-        "address": "127 Charles Place"
-    },
-    {
-        "firstName": "Adams",
-        "lastName": "Hardy",
-        "gender": "male",
-        "address": "163 Hawthorne Street"
-    },
-    {
-        "firstName": "Daisy",
-        "lastName": "Benton",
-        "gender": "female",
-        "address": "135 Aurelia Court"
-    },
-    {
-        "firstName": "Richmond",
-        "lastName": "Payne",
-        "gender": "male",
-        "address": "759 Bayard Street"
-    },
-    {
-        "firstName": "Dejesus",
-        "lastName": "Clayton",
-        "gender": "male",
-        "address": "312 Stewart Street"
-    },
-    {
-        "firstName": "Giles",
-        "lastName": "Sullivan",
-        "gender": "male",
-        "address": "741 Underhill Avenue"
-    },
-    {
-        "firstName": "Donovan",
-        "lastName": "Boone",
-        "gender": "male",
-        "address": "124 Grattan Street"
-    },
-    {
-        "firstName": "Imelda",
-        "lastName": "Baird",
-        "gender": "female",
-        "address": "487 Dahlgreen Place"
-    }
+  {
+    "firstName": "Rohit",
+    "lastName": "Jadhav",
+    "gender": "male",
+    "address": "Flat 12, Shree Ganesh Nagar, Pune"
+  },
+  {
+    "firstName": "Pooja",
+    "lastName": "Deshmukh",
+    "gender": "female",
+    "address": "Sai Apartment, Karve Nagar, Pune"
+  },
+  {
+    "firstName": "Sandeep",
+    "lastName": "Patil",
+    "gender": "male",
+    "address": "Near ZP School, Kolhapur"
+  },
+  {
+    "firstName": "Anjali",
+    "lastName": "Kulkarni",
+    "gender": "female",
+    "address": "Shivaji Peth, Satara"
+  },
+  {
+    "firstName": "Mahesh",
+    "lastName": "Nikam",
+    "gender": "male",
+    "address": "Datta Chowk, Sangli"
+  },
+  {
+    "firstName": "Pravin",
+    "lastName": "Shinde",
+    "gender": "male",
+    "address": "Renuka Nagar, Nashik"
+  },
+  {
+    "firstName": "Amit",
+    "lastName": "More",
+    "gender": "male",
+    "address": "Near Bus Stand, Ahmednagar"
+  },
+  {
+    "firstName": "Kavita",
+    "lastName": "Pawar",
+    "gender": "female",
+    "address": "Mahatma Phule Nagar, Solapur"
+  },
+  {
+    "firstName": "Sneha",
+    "lastName": "Bhosale",
+    "gender": "female",
+    "address": "Gokul Shirgaon, Kolhapur"
+  },
+  {
+    "firstName": "Vikas",
+    "lastName": "Chavan",
+    "gender": "male",
+    "address": "CIDCO, Aurangabad"
+  },
+  {
+    "firstName": "Neha",
+    "lastName": "Joshi",
+    "gender": "female",
+    "address": "Sadashiv Peth, Pune"
+  },
+  {
+    "firstName": "Sachin",
+    "lastName": "Kale",
+    "gender": "male",
+    "address": "Raviwar Peth, Satara"
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Gawade",
+    "gender": "male",
+    "address": "MIDC Area, Latur"
+  },
+  {
+    "firstName": "Akash",
+    "lastName": "Gaikwad",
+    "gender": "male",
+    "address": "Near ST Stand, Beed"
+  },
+  {
+    "firstName": "Nitin",
+    "lastName": "Sawant",
+    "gender": "male",
+    "address": "Malvan Road, Sindhudurg"
+  },
+  {
+    "firstName": "Amol",
+    "lastName": "Rane",
+    "gender": "male",
+    "address": "Ratnagiri City, Ratnagiri"
+  },
+  {
+    "firstName": "Prashant",
+    "lastName": "Mane",
+    "gender": "male",
+    "address": "Shivneri Colony, Jalgaon"
+  },
+  {
+    "firstName": "Madhuri",
+    "lastName": "Kadam",
+    "gender": "female",
+    "address": "Rajwada Chowk, Sangli"
+  },
+  {
+    "firstName": "Shraddha",
+    "lastName": "Phadke",
+    "gender": "female",
+    "address": "Dadar West, Mumbai"
+  },
+  {
+    "firstName": "Komal",
+    "lastName": "Naik",
+    "gender": "female",
+    "address": "Vengurla, Sindhudurg"
+  },
+  {
+    "firstName": "Suresh",
+    "lastName": "Lokhande",
+    "gender": "male",
+    "address": "Old MIDC Road, Amravati"
+  },
+  {
+    "firstName": "Ramesh",
+    "lastName": "Baviskar",
+    "gender": "male",
+    "address": "Shirpur Road, Dhule"
+  },
+  {
+    "firstName": "Vaishali",
+    "lastName": "Gore",
+    "gender": "female",
+    "address": "Balaji Nagar, Parbhani"
+  },
+  {
+    "firstName": "Ganesh",
+    "lastName": "Wagh",
+    "gender": "male",
+    "address": "Market Yard, Nanded"
+  },
+  {
+    "firstName": "Sunil",
+    "lastName": "Thorat",
+    "gender": "male",
+    "address": "Satpur Colony, Nashik"
+  },
+  {
+    "firstName": "Kiran",
+    "lastName": "Shelar",
+    "gender": "male",
+    "address": "Ghatkopar East, Mumbai"
+  },
+  {
+    "firstName": "Deepak",
+    "lastName": "Jagtap",
+    "gender": "male",
+    "address": "Baramati MIDC, Pune"
+  },
+  {
+    "firstName": "Aarti",
+    "lastName": "Sonavane",
+    "gender": "female",
+    "address": "Alibag Beach Road, Raigad"
+  }
 ]

@@ -1,505 +1,280 @@
 [
     {
-        "name": "Ethel Price",
+        "name": "Aarti Sharma",
         "gender": "female",
-        "company": "Johnson and Partners",
+        "company": "Sun Pharma",
         "age": 22
     },
     {
-        "name": "Claudine Neal",
+        "name": "Meena Iyer",
         "gender": "female",
-        "company": "Sealoud",
+        "company": "Cipla",
         "age": 55
     },
     {
-        "name": "Beryl Rice",
+        "name": "Kamala Rao",
         "gender": "female",
-        "company": "Velity",
+        "company": "Dr Reddy's Laboratories",
         "age": 67
     },
     {
-        "name": "Wilder Gonzales",
+        "name": "Rohit Verma",
         "gender": "male",
-        "company": "Geekko"
+        "company": "Lupin"
     },
     {
-        "name": "Georgina Schultz",
+        "name": "Neha Kulkarni",
         "gender": "female",
-        "company": "Suretech"
+        "company": "Aurobindo Pharma"
     },
     {
-        "name": "Carroll Buchanan",
+        "name": "Suresh Patil",
         "gender": "male",
-        "company": "Ecosys"
+        "company": "Glenmark Pharmaceuticals"
     },
     {
-        "name": "Valarie Atkinson",
+        "name": "Pooja Deshmukh",
         "gender": "female",
-        "company": "Hopeli"
+        "company": "Torrent Pharmaceuticals"
     },
     {
-        "name": "Schroeder Mathews",
+        "name": "Amit Malhotra",
         "gender": "male",
-        "company": "Polarium"
+        "company": "Biocon"
     },
     {
-        "name": "Lynda Mendoza",
+        "name": "Kavita Joshi",
         "gender": "female",
-        "company": "Dogspa"
+        "company": "Alkem Laboratories"
     },
     {
-        "name": "Sarah Massey",
+        "name": "Sneha Nair",
         "gender": "female",
-        "company": "Bisba"
+        "company": "Zydus Lifesciences"
     },
     {
-        "name": "Robles Boyle",
+        "name": "Rakesh Gupta",
         "gender": "male",
-        "company": "Comtract"
+        "company": "Mankind Pharma"
     },
     {
-        "name": "Evans Hickman",
+        "name": "Vikram Singh",
         "gender": "male",
-        "company": "Parleynet"
+        "company": "Abbott India"
     },
     {
-        "name": "Dawson Barber",
+        "name": "Anil Choudhary",
         "gender": "male",
-        "company": "Dymi"
+        "company": "Intas Pharmaceuticals"
     },
     {
-        "name": "Bruce Strong",
+        "name": "Rajeev Mehta",
         "gender": "male",
-        "company": "Xyqag"
+        "company": "Emcure Pharmaceuticals"
     },
     {
-        "name": "Nellie Whitfield",
+        "name": "Sunita Bansal",
         "gender": "female",
-        "company": "Exospace"
+        "company": "Piramal Pharma"
     },
     {
-        "name": "Jackson Macias",
+        "name": "Karan Shah",
         "gender": "male",
-        "company": "Aquamate"
+        "company": "Alembic Pharmaceuticals"
     },
     {
-        "name": "Pena Pena",
+        "name": "Mahesh Kulkarni",
         "gender": "male",
-        "company": "Quarx"
+        "company": "IPCA Laboratories"
     },
     {
-        "name": "Lelia Gates",
+        "name": "Rina Ghosh",
         "gender": "female",
-        "company": "Proxsoft"
+        "company": "Wockhardt"
     },
     {
-        "name": "Letitia Vasquez",
+        "name": "Anjali Saxena",
         "gender": "female",
-        "company": "Slumberia"
+        "company": "Serum Institute of India"
     },
     {
-        "name": "Trevino Moreno",
+        "name": "Pradeep Yadav",
         "gender": "male",
-        "company": "Conjurica"
+        "company": "Bharat Biotech"
     },
     {
-        "name": "Barr Page",
+        "name": "Sanjay Kapoor",
         "gender": "male",
-        "company": "Apex"
+        "company": "Natco Pharma"
     },
     {
-        "name": "Kirkland Merrill",
+        "name": "Deepak Arora",
         "gender": "male",
-        "company": "Utara"
+        "company": "Divi's Laboratories"
     },
     {
-        "name": "Blanche Conley",
+        "name": "Rekha Pillai",
         "gender": "female",
-        "company": "Imkan"
+        "company": "Sun Pharma Advanced Research"
     },
     {
-        "name": "Atkins Dunlap",
+        "name": "Nitin Pawar",
         "gender": "male",
-        "company": "Comveyor"
+        "company": "Gland Pharma"
     },
     {
-        "name": "Everett Foreman",
+        "name": "Harish Reddy",
         "gender": "male",
-        "company": "Maineland"
+        "company": "Hetero Drugs"
     },
     {
-        "name": "Gould Randolph",
+        "name": "Swati Khandelwal",
+        "gender": "female",
+        "company": "Micro Labs"
+    },
+    {
+        "name": "Farhan Khan",
         "gender": "male",
-        "company": "Intergeek"
+        "company": "Ajanta Pharma"
     },
     {
-        "name": "Kelli Leon",
+        "name": "Manisha Agarwal",
         "gender": "female",
-        "company": "Verbus"
+        "company": "FDC Limited"
     },
     {
-        "name": "Freda Mason",
+        "name": "Rohini Shetty",
         "gender": "female",
-        "company": "Accidency"
+        "company": "Aristo Pharmaceuticals"
     },
     {
-        "name": "Tucker Maxwell",
+        "name": "Ashok Menon",
         "gender": "male",
-        "company": "Lumbrex"
+        "company": "Strides Pharma"
     },
     {
-        "name": "Yvonne Parsons",
-        "gender": "female",
-        "company": "Zolar"
-    },
-    {
-        "name": "Woods Key",
+        "name": "Pankaj Mishra",
         "gender": "male",
-        "company": "Bedder"
+        "company": "JB Chemicals & Pharma"
     },
     {
-        "name": "Stephens Reilly",
+        "name": "Shalini Roy",
+        "gender": "female",
+        "company": "Eris Lifesciences"
+    },
+    {
+        "name": "Vivek Tiwari",
         "gender": "male",
-        "company": "Acusage"
+        "company": "Marksans Pharma"
     },
     {
-        "name": "Mcfarland Sparks",
+        "name": "Nandita Sen",
+        "gender": "female",
+        "company": "Zuventus Healthcare"
+    },
+    {
+        "name": "Priya Malhotra",
+        "gender": "female",
+        "company": "Akums Drugs & Pharma"
+    },
+    {
+        "name": "Arjun Nair",
         "gender": "male",
-        "company": "Comvey"
+        "company": "Cadila Healthcare"
     },
     {
-        "name": "Jocelyn Sawyer",
+        "name": "Kiran Joshi",
         "gender": "female",
-        "company": "Fortean"
+        "company": "Elder Pharmaceuticals"
     },
     {
-        "name": "Renee Barr",
-        "gender": "female",
-        "company": "Kiggle"
-    },
-    {
-        "name": "Gaines Beck",
+        "name": "Ramesh Pillai",
         "gender": "male",
-        "company": "Sequitur"
+        "company": "USV India"
     },
     {
-        "name": "Luisa Farrell",
+        "name": "Shweta Kulkarni",
         "gender": "female",
-        "company": "Cinesanct"
+        "company": "Blue Cross Laboratories"
     },
     {
-        "name": "Robyn Strickland",
-        "gender": "female",
-        "company": "Obones"
-    },
-    {
-        "name": "Roseann Jarvis",
-        "gender": "female",
-        "company": "Aquazure"
-    },
-    {
-        "name": "Johnston Park",
+        "name": "Ajay Saxena",
         "gender": "male",
-        "company": "Netur"
+        "company": "Medley Pharmaceuticals"
     },
     {
-        "name": "Wong Craft",
+        "name": "Pallavi Patil",
+        "gender": "female",
+        "company": "Indoco Remedies"
+    },
+    {
+        "name": "Naveen Shekar",
         "gender": "male",
-        "company": "Opticall"
+        "company": "Unichem Laboratories"
     },
     {
-        "name": "Merritt Cole",
+        "name": "Sonal Mehra",
+        "gender": "female",
+        "company": "Centaur Pharmaceuticals"
+    },
+    {
+        "name": "Rahul Bhat",
         "gender": "male",
-        "company": "Techtrix"
+        "company": "Jubilant Life Sciences"
     },
     {
-        "name": "Dale Byrd",
+        "name": "Kriti Arora",
         "gender": "female",
-        "company": "Kneedles"
+        "company": "Biological E"
     },
     {
-        "name": "Sara Delgado",
-        "gender": "female",
-        "company": "Netagy"
-    },
-    {
-        "name": "Alisha Myers",
-        "gender": "female",
-        "company": "Intradisk"
-    },
-    {
-        "name": "Felecia Smith",
-        "gender": "female",
-        "company": "Futurity"
-    },
-    {
-        "name": "Neal Harvey",
+        "name": "Siddharth Jain",
         "gender": "male",
-        "company": "Pyramax"
+        "company": "Granules India"
     },
     {
-        "name": "Nola Miles",
+        "name": "Tanvi Kulkarni",
         "gender": "female",
-        "company": "Sonique"
+        "company": "Shilpa Medicare"
     },
     {
-        "name": "Herring Pierce",
+        "name": "Manoj Desai",
         "gender": "male",
-        "company": "Geeketron"
+        "company": "Neuland Laboratories"
     },
     {
-        "name": "Shelley Rodriquez",
+        "name": "Reema Fernandes",
         "gender": "female",
-        "company": "Bostonic"
+        "company": "Alpa Laboratories"
     },
     {
-        "name": "Cora Chase",
-        "gender": "female",
-        "company": "Isonus"
-    },
-    {
-        "name": "Mckay Santos",
+        "name": "Vinayak Patwardhan",
         "gender": "male",
-        "company": "Amtas"
+        "company": "Hikal"
     },
     {
-        "name": "Hilda Crane",
-        "gender": "female",
-        "company": "Jumpstack"
-    },
-    {
-        "name": "Jeanne Lindsay",
-        "gender": "female",
-        "company": "Genesynk"
-    },
-    {
-        "name": "Frye Sharpe",
+        "name": "Suresh Naik",
         "gender": "male",
-        "company": "Eplode"
+        "company": "Macleods Pharmaceuticals"
     },
     {
-        "name": "Velma Fry",
+        "name": "Bhavana Kulkarni",
         "gender": "female",
-        "company": "Ronelon"
+        "company": "Corona Remedies"
     },
     {
-        "name": "Reyna Espinoza",
+        "name": "Rohit Chatterjee",
+        "gender": "male",
+        "company": "Emami Ltd"
+    },
+    {
+        "name": "Anita Paul",
         "gender": "female",
-        "company": "Prismatic"
+        "company": "Albert David"
     },
     {
-        "name": "Spencer Sloan",
+        "name": "Kishore Iyer",
         "gender": "male",
-        "company": "Comverges"
-    },
-    {
-        "name": "Graham Marsh",
-        "gender": "male",
-        "company": "Medifax"
-    },
-    {
-        "name": "Hale Boone",
-        "gender": "male",
-        "company": "Digial"
-    },
-    {
-        "name": "Wiley Hubbard",
-        "gender": "male",
-        "company": "Zensus"
-    },
-    {
-        "name": "Blackburn Drake",
-        "gender": "male",
-        "company": "Frenex"
-    },
-    {
-        "name": "Franco Hunter",
-        "gender": "male",
-        "company": "Rockabye"
-    },
-    {
-        "name": "Barnett Case",
-        "gender": "male",
-        "company": "Norali"
-    },
-    {
-        "name": "Alexander Foley",
-        "gender": "male",
-        "company": "Geekosis"
-    },
-    {
-        "name": "Lynette Stein",
-        "gender": "female",
-        "company": "Macronaut"
-    },
-    {
-        "name": "Anthony Joyner",
-        "gender": "male",
-        "company": "Senmei"
-    },
-    {
-        "name": "Garrett Brennan",
-        "gender": "male",
-        "company": "Bluegrain"
-    },
-    {
-        "name": "Betsy Horton",
-        "gender": "female",
-        "company": "Zilla"
-    },
-    {
-        "name": "Patton Small",
-        "gender": "male",
-        "company": "Genmex"
-    },
-    {
-        "name": "Lakisha Huber",
-        "gender": "female",
-        "company": "Insource"
-    },
-    {
-        "name": "Lindsay Avery",
-        "gender": "female",
-        "company": "Unq"
-    },
-    {
-        "name": "Ayers Hood",
-        "gender": "male",
-        "company": "Accuprint"
-    },
-    {
-        "name": "Torres Durham",
-        "gender": "male",
-        "company": "Uplinx"
-    },
-    {
-        "name": "Vincent Hernandez",
-        "gender": "male",
-        "company": "Talendula"
-    },
-    {
-        "name": "Baird Ryan",
-        "gender": "male",
-        "company": "Aquasseur"
-    },
-    {
-        "name": "Georgia Mercer",
-        "gender": "female",
-        "company": "Skyplex"
-    },
-    {
-        "name": "Francesca Elliott",
-        "gender": "female",
-        "company": "Nspire"
-    },
-    {
-        "name": "Lyons Peters",
-        "gender": "male",
-        "company": "Quinex"
-    },
-    {
-        "name": "Kristi Brewer",
-        "gender": "female",
-        "company": "Oronoko"
-    },
-    {
-        "name": "Tonya Bray",
-        "gender": "female",
-        "company": "Insuron"
-    },
-    {
-        "name": "Valenzuela Huff",
-        "gender": "male",
-        "company": "Applideck"
-    },
-    {
-        "name": "Tiffany Anderson",
-        "gender": "female",
-        "company": "Zanymax"
-    },
-    {
-        "name": "Jerri King",
-        "gender": "female",
-        "company": "Eventex"
-    },
-    {
-        "name": "Rocha Meadows",
-        "gender": "male",
-        "company": "Goko"
-    },
-    {
-        "name": "Marcy Green",
-        "gender": "female",
-        "company": "Pharmex"
-    },
-    {
-        "name": "Kirk Cross",
-        "gender": "male",
-        "company": "Portico"
-    },
-    {
-        "name": "Hattie Mullen",
-        "gender": "female",
-        "company": "Zilencio"
-    },
-    {
-        "name": "Deann Bridges",
-        "gender": "female",
-        "company": "Equitox"
-    },
-    {
-        "name": "Chaney Roach",
-        "gender": "male",
-        "company": "Qualitern"
-    },
-    {
-        "name": "Consuelo Dickson",
-        "gender": "female",
-        "company": "Poshome"
-    },
-    {
-        "name": "Billie Rowe",
-        "gender": "female",
-        "company": "Cemention"
-    },
-    {
-        "name": "Bean Donovan",
-        "gender": "male",
-        "company": "Mantro"
-    },
-    {
-        "name": "Lancaster Patel",
-        "gender": "male",
-        "company": "Krog"
-    },
-    {
-        "name": "Rosa Dyer",
-        "gender": "female",
-        "company": "Netility"
-    },
-    {
-        "name": "Christine Compton",
-        "gender": "female",
-        "company": "Bleeko"
-    },
-    {
-        "name": "Milagros Finch",
-        "gender": "female",
-        "company": "Handshake"
-    },
-    {
-        "name": "Ericka Alvarado",
-        "gender": "female",
-        "company": "Lyrichord"
-    },
-    {
-        "name": "Sylvia Sosa",
-        "gender": "female",
-        "company": "Circum"
-    },
-    {
-        "name": "Humphrey Curtis",
-        "gender": "male",
-        "company": "Corepan"
+        "company": "Sanmar Pharma"
     }
 ]

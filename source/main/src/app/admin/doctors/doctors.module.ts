@@ -64,3 +64,4 @@ import { SharedModule } from './../../shared/shared.module';
   providers: [DoctorsService],
 })
 export class DoctorsModule {}
+
