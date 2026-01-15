@@ -10,7 +10,7 @@ export class EditAllotmentComponent {
   formdata = {
     rNo: "105",
     rType: "2",
-    pName: "John Deo",
+    pName: "Rahul Sharma",
     aDate: "2020-02-17T14:22:18Z",
     dDate: "2020-02-19T14:22:18Z",
   };

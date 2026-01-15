@@ -13,18 +13,18 @@ import {
 export class EditPatientComponent {
   patientForm: UntypedFormGroup;
   formdata = {
-    first: "Pooja",
-    last: "Sarma",
+    first: "Sneha",
+    last: "Joshi",
     gender: "Female",
-    mobile: "123456789",
+    mobile: "9123456789",
     age: "23",
-    email: "test@example.com",
+    email: "snehajoshi123@gmail.com",
     maritalStatus: "1",
     bGroup: "O+",
     bPresure: "123",
     sugger: "150",
     injury: "Fever",
-    address: "101, Elanxa, New Yourk",
+    address: "Satara Road, Pune, Maharashtra",
     dob: "1987-02-17T14:22:18Z",
     uploadFile: "",
   };

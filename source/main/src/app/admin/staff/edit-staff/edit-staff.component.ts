@@ -12,16 +12,16 @@ import {
 export class EditStaffComponent {
   staffForm: UntypedFormGroup;
   formdata = {
-    first: "Pooja",
-    last: "Sarma",
+    first: "Bharti",
+    last: "Sharma",
     gender: "Female",
-    mobile: "123456789",
+    mobile: "9123456789",
     password: "123",
     conformPassword: "123",
-    email: "test@example.com",
+    email: "bhartisharma10@.gmail.comcom",
     designation: "Sr. Doctor",
     department: "2",
-    address: "101, Elanxa, New Yourk",
+    address: "105,Hinjawadi Phase1 ",
     dob: "1987-02-17T14:22:18Z",
     education: "M.B.B.S.",
     uploadFile: "",
